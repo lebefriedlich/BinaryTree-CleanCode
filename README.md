@@ -12,7 +12,7 @@ Berikut adalah struktur direktori utama proyek ini:
 
 - `models`: Berisi definisi dari model-model yang mewakili entitas-entitas dalam aplikasi.
 - `services`: Berisi implementasi layanan-layanan yang menyediakan logika bisnis tambahan dan memfasilitasi interaksi antara kontroler dan repository.
-- `repositories`: Berisi implementasi repository-repository yang bertanggung jawab untuk berinteraksi dengan penyimpanan data, seperti basis data.
+- `repositories`: Berisi implementasi repository-repository yang bertanggung jawab untuk berinteraksi dengan penyimpanan data.
 - `controllers`: Berisi kontroler-kontroler yang menangani alur kerja aplikasi dan berinteraksi dengan tampilan serta layanan.
 - `views`: Berisi file-file tampilan atau antarmuka pengguna yang akan ditampilkan kepada pengguna akhir.
 
