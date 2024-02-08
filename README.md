@@ -1,4 +1,4 @@
-# Proyek Java Native dengan Struktur Clean Code Architecture
+# Proyek Binary Tree Menggunakan Java Native dengan Struktur Clean Code Architecture
 
 Proyek ini adalah aplikasi Java Native yang mengimplementasikan pola arsitektur Model-View-Controller (MVC) dengan tambahan service layer dan repository layer untuk memisahkan tanggung jawab dan meningkatkan pemeliharaan serta skalabilitas kode.
 
